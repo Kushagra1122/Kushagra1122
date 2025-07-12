@@ -165,7 +165,6 @@
 
 - **National Institute of Technology Karnataka (NITK)**  
   B.Tech in Electrical and Electronics Engineering (2023–2027)  
-  CGPA: **7.1 / 10**
 
 ---
 
