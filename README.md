@@ -87,155 +87,41 @@
 
 ---
 
-## 🚀 Projects
+## 🌐 Web Projects
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Demo/Screenshot</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kushagra1122/Shopping">
-        <b>🛒 Shopping</b>
-      </a>
-    </td>
-    <td>
-      Full-stack e-commerce platform with real-time inventory and secure payments.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-    </td>
-    <td align="center">
-      <!-- Replace with your demo image or GIF -->
-      <img src="assets/shopping-demo.gif" alt="Shopping Demo" width="120"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kushagra1122/Chat">
-        <b>💬 Chat</b>
-      </a>
-    </td>
-    <td>
-      Real-time messaging app using Socket.IO and responsive UI.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td align="center">
-      <img src="assets/chat-demo.gif" alt="Chat Demo" width="120"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kushagra1122/StreamSync">
-        <b>📺 StreamSync</b>
-      </a>
-    </td>
-    <td>
-      Live video platform with support for donations and real-time chat.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="assets/streamsync-demo.gif" alt="StreamSync Demo" width="120"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kushagra1122/SastaChatGPT">
-        <b>🤖 SastaChatGPT</b>
-      </a>
-    </td>
-    <td>
-      Gemini-based chatbot with long-term memory and context.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
-    </td>
-    <td align="center">
-      <img src="assets/sastachatgpt-demo.gif" alt="SastaChatGPT Demo" width="120"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kushagra1122/StudyAI">
-        <b>🎓 StudyAI</b>
-      </a>
-    </td>
-    <td>
-      Chrome extension for YouTube Q&A using NLP.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="assets/studyai-demo.gif" alt="StudyAI Demo" width="120"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kushagra1122/Texting">
-        <b>📱 Texting</b>
-      </a>
-    </td>
-    <td>
-      Social messaging app with followers and real-time DMs.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td align="center">
-      <img src="assets/texting-demo.gif" alt="Texting Demo" width="120"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kushagra1122/Qlue">
-        <b>🚀 Qlue</b>
-      </a>
-    </td>
-    <td>
-      Demo app for push notifications and instant chat.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td align="center">
-      <img src="assets/qlue-demo.gif" alt="Qlue Demo" width="120"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kushagra1122/IPL-Predictor">
-        <b>🏏 IPL Predictor</b>
-      </a>
-    </td>
-    <td>
-      Predicts IPL winners using ML on historical match data.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="assets/iplpredictor-demo.gif" alt="IPL Predictor Demo" width="120"/>
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|--------|-------------|
+| 🔗 [**Shopping**](https://github.com/Kushagra1122/Shopping) | Full-stack e-commerce platform with real-time inventory and secure payments. |
+| 🔗 [**Chat**](https://github.com/Kushagra1122/Chat) | Sleek real-time messaging app using Socket.IO with responsive UI. |
+| 🔗 [**StreamSync**](https://github.com/Kushagra1122/StreamSync) | Interactive live video platform with donations and real-time chat. |
 
 ---
 
+## 🤖 GenAI + Web Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔗 [**SastaChatGPT**](https://github.com/Kushagra1122/SastaChatGPT) | Gemini-based chatbot with persistent memory and contextual understanding. |
+| 🔗 [**StudyAI**](https://github.com/Kushagra1122/StudyAI) | NLP-powered extension to ask questions on YouTube videos for deeper learning. |
+
+---
+
+## 📱 Mobile Applications
+
+| Project | Description |
+|--------|-------------|
+| 🔗 [**Texting**](https://github.com/Kushagra1122/Texting) | Feature-rich social messaging app with followers and real-time DMs. |
+| 🔗 [**Qlue**](https://github.com/Kushagra1122/Qlue-Demo) | React Native demo showcasing push notifications and instant chat. |
+
+---
+
+## 📊 ML Project
+
+| Project | Description |
+|--------|-------------|
+| 🔗 [**IPL Predictor**](https://github.com/Kushagra1122/Ipl) | ML model predicting IPL winners using historical data and feature engineering. |
+
+---
 ## 💼 Experience
 
 - **Qlue** – React Native Developer Intern _(May–Jul 2025)_  
