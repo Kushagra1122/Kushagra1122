@@ -137,9 +137,17 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kushagra1122&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra1122&theme=radical" height="160"/>
-  <br>
-  <img src="https://leetcard.jacoblin.cool/Kushagra124?theme=unicorn&ext=contest" height="180"/>
 </div>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/Kushagra124/">
+    <img src="https://leetcard.jacoblin.cool/Kushagra124?ext=contest" />
+  </a>
+</p>
 
 ---
 
