@@ -145,7 +145,7 @@
   </a>
   <br />
   <a href="https://github.com/Kushagra1122">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra1122&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Kushagra1122&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
   </a>
 </div>
 
