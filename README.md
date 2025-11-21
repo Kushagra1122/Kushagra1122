@@ -137,29 +137,20 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Kushagra1122">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kushagra1122&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Kushagra1122">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra1122&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
-  </a>
-  <br />
-  <a href="https://github.com/Kushagra1122">
-    <img src="https://streak-stats.demolab.com?user=Kushagra1122&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kushagra1122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra1122&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Kushagra1122&theme=tokyonight&hide_border=true" height="170" />
+
 </div>
 
----
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/Kushagra124/">
-    <img src="https://leetcard.jacoblin.cool/Kushagra124?ext=contest" alt="LeetCode Profile" />
-  </a>
-</p>
 
 ---
+
 
 ## 🎓 Education
 
