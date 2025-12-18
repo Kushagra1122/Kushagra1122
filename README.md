@@ -144,7 +144,11 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Kushagra1122&theme=tokyonight&hide_border=true" height="170" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra1122&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
 
 </div>
 
