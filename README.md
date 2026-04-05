@@ -112,7 +112,6 @@
 | Project | Description |
 |--------|-------------|
 | 🔗 [**Texting**](https://github.com/Kushagra1122/Texting) | Feature-rich messaging app with real-time chat and followers system. |
-| 🔗 [**Qlue**](https://github.com/Kushagra1122/Qlue-Demo) | Push notification & instant messaging demo using React Native. |
 
 ---
 
@@ -121,16 +120,6 @@
 | Project | Description |
 |--------|-------------|
 | 🔗 [**IPL Predictor**](https://github.com/Kushagra1122/Ipl) | ML model predicting IPL match winners using historical data. |
-
----
-
-## 💼 Experience
-
-- **Qlue** — *React Native Developer Intern* (May–Jul 2025)  
-  → Implemented real-time chat, push notifications & improved UI/UX
-
-- **Advista** — *Frontend Intern* (Jan–Feb 2025)  
-  → Converted Figma UIs into modular React components with Tailwind CSS
 
 ---
 
