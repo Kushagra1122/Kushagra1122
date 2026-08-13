@@ -24,12 +24,6 @@
   </a>
 </p>
 
-<p>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Kushagra1122&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kushagra1122?style=flat-square&color=238636&label=FOLLOWERS" />
-  <img alt="Location" src="https://img.shields.io/badge/India-FF9933?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
-
 </div>
 
 ---
@@ -50,10 +44,10 @@ open_to: Software Engineering and Applied AI opportunities
 
 I work closest to the parts users rarely see but always feel: service layers, automation runtimes, retrieval paths, integrations, and infrastructure. My projects span **Go, TypeScript, and Python**, with an emphasis on clear APIs, recoverable workflows, and practical product delivery.
 
-- 🔭 Building event-driven schedulers, AI workflows, and developer-facing tools
-- 🧩 Interested in distributed systems, RAG, MCP, tool calling, and local-first software
-- 🚀 Comfortable owning work from architecture and implementation through CI/CD and launch
-- 📍 Based in India and open to remote or on-site engineering opportunities
+- Building event-driven schedulers, AI workflows, and developer-facing tools
+- Interested in distributed systems, RAG, MCP, tool calling, and local-first software
+- Comfortable owning work from architecture and implementation through CI/CD and launch
+- Based in India and open to remote or on-site engineering opportunities
 
 ## `02.` Experience Snapshot
 
@@ -119,36 +113,36 @@ I work closest to the parts users rarely see but always feel: service layers, au
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/gapi-org/gapi">Gapi</a></h3>
+      <h3><a href="https://github.com/gapi-org/gapi">Gapi</a></h3>
       <p>A Go web framework built on <code>net/http</code> with generic handlers, route groups, middleware, dependency injection, validation, and OpenAPI 3.1 generation.</p>
       <p><code>Go</code> <code>OpenAPI</code> <code>Generics</code> <code>CLI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔎 <a href="https://github.com/Kushagra1122/VaultLens">VaultLens</a></h3>
+      <h3><a href="https://github.com/Kushagra1122/VaultLens">VaultLens</a></h3>
       <p>A private, local-first memory engine that indexes desktop context and turns it into cited answers, timelines, and actionable tasks.</p>
       <p><code>Electron</code> <code>TypeScript</code> <code>SQLite</code> <code>RAG</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/Kushagra1122/ReplayX">ReplayX</a></h3>
+      <h3><a href="https://github.com/Kushagra1122/ReplayX">ReplayX</a></h3>
       <p>An incident-response workflow that moves failures from intake through reproduction, diagnosis, fix planning, verification, and postmortems.</p>
       <p><code>Next.js</code> <code>WebSockets</code> <code>Slack</code> <code>AI Workflows</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/Kushagra1122/Pokeshoot">PokeShoot</a></h3>
+      <h3><a href="https://github.com/Kushagra1122/Pokeshoot">PokeShoot</a></h3>
       <p>A real-time multiplayer game with low-latency rooms, SIWE authentication, ELO ranking, and cross-chain digital asset flows.</p>
       <p><code>React</code> <code>Phaser</code> <code>Socket.IO</code> <code>Solidity</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✅ <a href="https://github.com/Kushagra1122/approval-orchestrator">Approval Orchestrator</a></h3>
+      <h3><a href="https://github.com/Kushagra1122/approval-orchestrator">Approval Orchestrator</a></h3>
       <p>Multi-step approval automation with audit trails, rollback paths, retry scheduling, and Slack, email, and web routing.</p>
       <p><code>Node.js</code> <code>React</code> <code>SQLite</code> <code>Socket.IO</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 <a href="https://github.com/Kushagra1122/StreamSync">StreamSync</a></h3>
+      <h3><a href="https://github.com/Kushagra1122/StreamSync">StreamSync</a></h3>
       <p>A WebRTC live-streaming platform with concurrent rooms, chat, donations, screen sharing, and reconnect-aware signaling.</p>
       <p><code>WebRTC</code> <code>Node.js</code> <code>React</code> <code>MongoDB</code></p>
     </td>
@@ -194,7 +188,7 @@ I work closest to the parts users rarely see but always feel: service layers, au
 
 ## `06.` Education & Goals
 
-🎓 **National Institute of Technology Karnataka, Surathkal**  
+**National Institute of Technology Karnataka, Surathkal**  
 B.Tech in Electrical and Electronics Engineering · 2023–2027
 
 My goal is to work on software where engineering quality matters: backend platforms, developer infrastructure, applied-AI systems, and products that require real ownership from design to production.
