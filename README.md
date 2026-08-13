@@ -1,173 +1,114 @@
-<!-- Typing Banner -->
+<h1 align="center">Hi, I'm Kushagra Tiwari 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7D747&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kushagra+Tiwari!;Full-stack+Developer+%7C+AI+Enthusiast;Always+learning+and+building+cool+stuff!" alt="Typing SVG" />
+  Software Engineer · Backend Systems · Applied AI
+</p>
+<p align="center">
+  I build reliable services, automation workflows, and AI-powered products that are designed to ship and keep working.
 </p>
 
-<!-- Contact Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kushagra-tiwari-aa2354283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kushagra-tiwari-aa2354283/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kushagraportfolio12.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <a href="https://kushagraportfolio12.netlify.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="mailto:kushagratiwari.231ee128@nitk.edu.in" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:kushagratiwari24@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Kushagra124/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/Kushagra124/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 B.Tech in Electrical & Electronics @ **NIT Surathkal** (2023–2027)  
-- 💡 Building full-stack web & mobile apps with real-time and scalable features  
-- 🤖 Passionate about **Generative AI**, **LLMs**, **WebRTC**, **Cloud Infra**, and **Computer Vision**  
-- 🚀 Actively exploring internships, freelance projects, and open-source collaborations  
+I am a B.Tech student in Electrical and Electronics Engineering at **NITK Surathkal** (2023–2027), focused on backend engineering and applied AI. I like building the parts of a product that need to be dependable: APIs, retrieval pipelines, scheduled jobs, integrations, and the infrastructure around them.
 
----
+- 🔭 Currently building backend workflows, developer tools, and local-first AI systems
+- 🧠 Exploring RAG, AI agents, tool calling, distributed systems, and cloud infrastructure
+- ⚙️ Comfortable taking a feature from system design through deployment
+- 🤝 Open to software engineering and applied-AI opportunities
 
-## ⚡ Tech Stack
+## What I Work With
+
+<p>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+</p>
+
+| Area | Technologies |
+| --- | --- |
+| **Backend & APIs** | Go, Node.js, Express, FastAPI, Django, REST APIs, WebSockets, RBAC |
+| **AI & Data** | RAG, AI Agents, MCP, LangChain, LangGraph, Embeddings, Vector Search |
+| **Systems** | PostgreSQL, MongoDB, SQLite, Redis, job queues, schedulers, event-driven systems |
+| **Cloud & DevOps** | AWS, Docker, Linux, Nginx, GitHub Actions, CI/CD |
+| **Frontend** | React, Next.js, Electron, React Native, Flutter |
+
+## Featured Projects
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    <td width="50%">
+      <h3><a href="https://github.com/gapi-org/gapi">Gapi</a></h3>
+      <p>A Go web framework with typed handlers, validation, OpenAPI 3.1 generation, problem details, and CLI tooling.</p>
+      <sub>Go · net/http · OpenAPI · Generics</sub>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Kushagra1122/VaultLens">VaultLens</a></h3>
+      <p>A local-first memory engine that indexes desktop context with SQLite, embeddings, semantic search, and source citations.</p>
+      <sub>Electron · TypeScript · SQLite · RAG</sub>
     </td>
   </tr>
   <tr>
-    <td><b>Frameworks & Libraries</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+    <td width="50%">
+      <h3><a href="https://github.com/Kushagra1122/ReplayX">ReplayX</a></h3>
+      <p>An incident-response workflow that converts reports into diagnosis, fix plans, verification notes, and postmortems.</p>
+      <sub>Next.js · WebSockets · Slack · AI Workflows</sub>
     </td>
-  </tr>
-  <tr>
-    <td><b>Backend & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / ML / GenAI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
-      <img src="https://img.shields.io/badge/LLMs-6E57E0?style=flat"/>
-      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+    <td width="50%">
+      <h3><a href="https://github.com/Kushagra1122/Pokeshoot">PokeShoot</a></h3>
+      <p>A real-time multiplayer game with low-latency rooms, player state, authentication, and on-chain asset flows.</p>
+      <sub>React · Phaser · Socket.IO · Solidity</sub>
     </td>
   </tr>
 </table>
 
----
-
-## 🌐 Web Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔗 [**Shopping**](https://github.com/Kushagra1122/Shopping) | Full-stack e-commerce platform with real-time inventory and secure payments. |
-| 🔗 [**Chat**](https://github.com/Kushagra1122/Chat) | Real-time messaging app with Socket.IO and responsive UI. |
-| 🔗 [**StreamSync**](https://github.com/Kushagra1122/StreamSync) | Live video platform with interactive chat and donation support. |
-
----
-
-## 🤖 GenAI + Web Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔗 [**SastaChatGPT**](https://github.com/Kushagra1122/SastaChatGPT) | Gemini-powered chatbot with contextual memory and user sessions. |
-| 🔗 [**StudyAI**](https://github.com/Kushagra1122/StudyAI) | Chrome extension to ask AI questions on YouTube for deeper learning. |
-
----
-
-## 📱 Mobile Applications
-
-| Project | Description |
-|--------|-------------|
-| 🔗 [**Texting**](https://github.com/Kushagra1122/Texting) | Feature-rich messaging app with real-time chat and followers system. |
-
----
-
-## 📊 ML Project
-
-| Project | Description |
-|--------|-------------|
-| 🔗 [**IPL Predictor**](https://github.com/Kushagra1122/Ipl) | ML model predicting IPL match winners using historical data. |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kushagra1122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra1122&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-<br/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra1122&theme=tokyonight&hide_border=true"
-  height="170"
-/>
-
-
-</div>
-
-
----
-
-
-## 🎓 Education
-
-- **National Institute of Technology Karnataka (NITK)**  
-  B.Tech in Electrical and Electronics Engineering (2023–2027)  
-
----
-
-## 🌍 Languages
-
-- 🇬🇧 **English** — Fluent  
-- 🇮🇳 **Hindi** — Native
-
----
-
-## 📬 Let's Connect!
-
-<p align="center">
-  <a href="mailto:kushagratiwari.231ee128@nitk.edu.in"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kushagra-tiwari-aa2354283/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/Kushagra124/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://kushagraportfolio12.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+<p>
+  <a href="https://github.com/Kushagra1122?tab=repositories">Explore all repositories →</a>
 </p>
 
----
+## GitHub Activity
 
-<p align="center"><b>Thanks for visiting! 🚀</b></p>
+<p>
+  <img
+    height="165"
+    alt="Kushagra's GitHub statistics"
+    src="https://github-readme-stats.vercel.app/api?username=Kushagra1122&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github"
+  />
+  <img
+    height="165"
+    alt="Most used languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra1122&layout=compact&hide_border=true"
+  />
+</p>
+
+## Let's Connect
+
+If you are building reliable developer tools, backend systems, or applied-AI products, I would be glad to connect.
+
+<p>
+  <a href="https://kushagraportfolio12.netlify.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/kushagra-tiwari-aa2354283/">LinkedIn</a> ·
+  <a href="mailto:kushagratiwari24@gmail.com">Email</a>
+</p>
