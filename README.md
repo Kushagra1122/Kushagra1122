@@ -10,7 +10,7 @@
 />
 
 <p>
-  <a href="https://portfolio.kushagratiwari.xyz/">
+  <a href="https://kushagratiwari.com/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kushagra-tiwari-aa2354283/">
