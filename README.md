@@ -178,13 +178,7 @@ I work closest to the parts users rarely see but always feel: service layers, au
   />
 </div>
 
-<div align="center">
-  <img
-    width="96%"
-    alt="GitHub contribution activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra1122&bg_color=0D1117&color=58A6FF&line=238636&point=F0F6FC&area=true&hide_border=true"
-  />
-</div>
+
 
 ## `06.` Education & Goals
 
